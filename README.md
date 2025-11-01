@@ -1,4 +1,4 @@
 # iqbalbasha
-this is my first repository 
+this is my first Git repository 
 <br>
 author: syed iqbal basha 
